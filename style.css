@@ -1,0 +1,13 @@
+body{
+    background-color: darkseagreen;
+}
+
+.video-container{
+    display: block;
+    margin-bottom: 20px;
+}
+
+a{    
+    display: block;
+}
+
